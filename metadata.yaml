@@ -1,0 +1,28 @@
+_repo: KotonaKuvaelma-It--Suomesta_43322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ahrenberg, Jacob
+    alias: Ahrenberg, Johan Jacob
+    birthdate: 1847
+    deathdate: 1914
+    gutenberg_agent_id: '41272'
+    url: http://www.gutenberg.org/2009/agents/41272
+    wikipedia: http://fi.wikipedia.org/wiki/Johan_Jacob_Ahrenberg
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43322'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Kotona: Kuvaelma Itä-Suomesta'
+url: http://www.gutenberg.org/ebooks/43322
